@@ -1,0 +1,4 @@
+D:\Aula\aula.csharp.io\IOTesting\IOTextFile\bin\Release\IOTextFile.exe
+D:\Aula\aula.csharp.io\IOTesting\IOTextFile\bin\Release\IOTextFile.pdb
+D:\Aula\aula.csharp.io\IOTesting\IOTextFile\obj\x86\Release\IOTextFile.exe
+D:\Aula\aula.csharp.io\IOTesting\IOTextFile\obj\x86\Release\IOTextFile.pdb

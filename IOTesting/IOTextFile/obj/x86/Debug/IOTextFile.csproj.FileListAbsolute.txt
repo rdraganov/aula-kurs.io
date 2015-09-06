@@ -1,0 +1,4 @@
+D:\Aula\aula.csharp.io\IOTesting\IOTextFile\bin\Debug\IOTextFile.exe
+D:\Aula\aula.csharp.io\IOTesting\IOTextFile\bin\Debug\IOTextFile.pdb
+D:\Aula\aula.csharp.io\IOTesting\IOTextFile\obj\x86\Debug\IOTextFile.exe
+D:\Aula\aula.csharp.io\IOTesting\IOTextFile\obj\x86\Debug\IOTextFile.pdb

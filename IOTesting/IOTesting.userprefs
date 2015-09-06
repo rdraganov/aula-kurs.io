@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="IOTextFile\IOTextFile.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IOTextFile\IOSettings.cs">
+    <Files>
+      <File FileName="IOTextFile\Program.cs" Line="14" Column="23" />
+      <File FileName="IOTextFile\STable.cs" Line="18" Column="34" />
+      <File FileName="IOTextFile\IOSettings.cs" Line="15" Column="82" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IOTesting" expanded="True">
+            <Node name="IOTextFile" expanded="True">
+              <Node name="IOSettings.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
