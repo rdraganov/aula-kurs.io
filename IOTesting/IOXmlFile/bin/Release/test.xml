@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+<rows>
+  <row property="simple property">simlpe value</row>
+  <row property="simple property1">simlpe value1</row>
+  <row property="simple property2">simlpe value2</row>
+  <row property="simple property3">simlpe value3</row>
+  <row property="simple property4">simlpe value4</row>
+  <row property="simple property5">simlpe value5</row>
+  <row property="simple property6">simlpe value6</row>
+  <row property="simple property7">simlpe value7</row>
+  <row property="simple property8">simlpe value8</row>
+  <row property="simple property9">simlpe value9</row>
+</rows>
+
+<simple>
+  <simplerow>value 01</simplerow>
+  <simplerow>value 02</simplerow>
+  <simplerow>value 03</simplerow>
+  <simplerow>value 04</simplerow>
+  <simplerow>value 05</simplerow>
+</simple>
+
+</settings>

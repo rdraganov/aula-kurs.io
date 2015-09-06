@@ -1,11 +1,22 @@
-﻿<Properties StartupItem="IOTextFile\IOTextFile.csproj">
+﻿<Properties StartupItem="IOXmlFile\IOXmlFile.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="IOTextFile\IOSettings.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IOXmlFile\Program.cs">
     <Files>
       <File FileName="IOTextFile\Program.cs" Line="12" Column="4" />
       <File FileName="IOTextFile\STable.cs" Line="18" Column="34" />
       <File FileName="IOTextFile\IOSettings.cs" Line="56" Column="43" />
+      <File FileName="IOXmlFile\Program.cs" Line="21" Column="24" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IOTesting" expanded="True">
+            <Node name="IOTextFile" expanded="True" />
+            <Node name="IOXmlFile" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
