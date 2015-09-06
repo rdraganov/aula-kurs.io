@@ -9,9 +9,7 @@ namespace IOTextFile
 
 		public static void Main (string[] args)
 		{
-			Console.WriteLine (_STable.stable[0]);
-
-//			if (_io.save()) {
+			//			if (_io.save()) {
 //				Console.WriteLine ("Записът е успешен");
 //			} else {
 //				Console.WriteLine ("Записът НЕ е успешен");
